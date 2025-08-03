@@ -1,0 +1,8 @@
+streamlit
+transformers
+sentence-transformers
+torch
+matplotlib
+PyPDF2
+beautifulsoup4
+requests
